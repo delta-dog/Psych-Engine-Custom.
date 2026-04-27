@@ -1,2 +1,6 @@
-The continuation will be out once I'm done adding the features.
-The original engine is by ShadowMario and his team. The link to the engine is right here: https://github.com/ShadowMario/FNF-PsychEngine
+The continuation of this project will be released once all planned features are completed and stabilized.
+
+This project is originally based on Psych Engine, created by ShadowMario and contributors.
+
+You can find the original engine here:
+https://github.com/ShadowMario/FNF-PsychEngine
